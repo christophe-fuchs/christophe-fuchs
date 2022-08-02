@@ -1,6 +1,5 @@
-### Hi there 👋
 
-Bonjour à tous,
+Bonjour à tous, 👋
 
 je m'appel Christophe, j'ai 28 ans et je souhaite devenir Développeur Web avec pour l'instant une préférence pour la partie front .
 
